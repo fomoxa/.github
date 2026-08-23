@@ -1,17 +1,8 @@
 <p align="center">
-  <img src="./cyclone-banner.jpg" width="100%" alt="Cyclone">
+  <img src="./fomoxa-banner.jpg" width="100%" alt="Fomoxa">
 </p>
 
 **Open-source cross-language networking stack.**
 
 Build interoperable clients and servers across:
-C# · Rust · Go · GDScript
-
-### Projects
-
-- [Cyclone Protocol](https://cyclone-protocol.github.io) — Protocol specification
-- `cyclonec` — Code generator
-- `cyclone-unity` — Unity SDK
-- `cyclone-godot` — Godot SDK
-- `cyclone-rust` — Rust SDK
-- `cyclone-go` — Go SDK
+C# · Rust · Go · GDScript · C  · C++ · js · ts 
